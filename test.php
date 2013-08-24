@@ -29,8 +29,8 @@
  *
  */
 
-$token = 'f1300d00ce1ef1eb668d461c65049dbe8a7aa0f1e0d3210dd1e15bb3add733ea';
-$test_config_id = 1327902;
+$token = 'NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN';
+$test_config_id = 999999;
 $verbose = TRUE;
 $base = 'https://api.loadimpact.com/v2/';
 
